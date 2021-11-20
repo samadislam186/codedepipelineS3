@@ -2,5 +2,5 @@ Resources:
     S3Bucket:
         Type: 'AWS::S3::Bucket'
         Properties:
-            BucketName: !Ref NameFromFile
+            BucketName: "S3DemoForDXC"
         
