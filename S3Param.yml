@@ -1,2 +1,4 @@
 Parameters:
-    NameFromFile: "s3demofordxca"
+    NameFromFile: 
+        - key: Name
+          Value: "s3demofordxca"
